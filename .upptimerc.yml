@@ -1,6 +1,5 @@
 owner: HaffMedia
 repo: Swiptly-Sites
-
 sites:
   - name: Swiptly
     url: https://swiptly.io
@@ -14,7 +13,7 @@ sites:
     url: https://modetraining.co.uk
   - name: The Child Care Academy
     url: https://thechildcareacademy.co.uk
-  - name: Its Fresh
+  - name: It's Fresh
     url: https://itsfresh.com
   - name: Towers Associates
     url: https://towersassociates.co.uk
