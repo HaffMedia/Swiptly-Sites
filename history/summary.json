@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/modetraining.co.uk.ico",
     "slug": "mode",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 944,
     "timeDay": 812,
     "timeWeek": 962,
     "timeMonth": 944,
     "timeYear": 944,
-    "dailyMinutesDown": {
-      "2024-01-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Child Care Academy",
@@ -223,19 +221,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/trstrainingltd.com.ico",
     "slug": "trs-training",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2449,
     "timeDay": 1680,
     "timeWeek": 2591,
     "timeMonth": 2449,
     "timeYear": 2449,
-    "dailyMinutesDown": {
-      "2024-01-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Maxxia",
@@ -263,19 +259,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vandrivertoolkit.co.uk.ico",
     "slug": "van-driver-toolkit",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1123,
     "timeDay": 1064,
     "timeWeek": 1165,
     "timeMonth": 1123,
     "timeYear": 1123,
-    "dailyMinutesDown": {
-      "2024-01-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Driving for Better Business",
