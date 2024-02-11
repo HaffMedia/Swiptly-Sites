@@ -76,9 +76,9 @@
     "url": "https://thechildcareacademy.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/thechildcareacademy.co.uk.ico",
     "slug": "the-child-care-academy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 870,
     "timeMonth": 794,
     "timeYear": 813,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-11": 0
+    }
   },
   {
     "name": "It's Fresh",
@@ -130,18 +132,20 @@
     "url": "https://vitalitymaestros.com",
     "icon": "https://icons.duckduckgo.com/ip3/vitalitymaestros.com.ico",
     "slug": "vitality-maestros",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1329,
-    "timeDay": 1060,
-    "timeWeek": 1435,
-    "timeMonth": 1296,
-    "timeYear": 1329,
-    "dailyMinutesDown": {}
+    "time": 1310,
+    "timeDay": 662,
+    "timeWeek": 1288,
+    "timeMonth": 1264,
+    "timeYear": 1310,
+    "dailyMinutesDown": {
+      "2024-02-11": 0
+    }
   },
   {
     "name": "We are the Property Maestros",
@@ -166,18 +170,20 @@
     "url": "https://gracejukes.com",
     "icon": "https://icons.duckduckgo.com/ip3/gracejukes.com.ico",
     "slug": "grace-jukes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1227,
-    "timeDay": 1261,
-    "timeWeek": 1214,
-    "timeMonth": 1276,
-    "timeYear": 1227,
-    "dailyMinutesDown": {}
+    "time": 1216,
+    "timeDay": 941,
+    "timeWeek": 1140,
+    "timeMonth": 1255,
+    "timeYear": 1216,
+    "dailyMinutesDown": {
+      "2024-02-11": 0
+    }
   },
   {
     "name": "Team Jukes",
