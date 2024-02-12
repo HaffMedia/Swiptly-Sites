@@ -4,18 +4,20 @@
     "url": "https://swiptly.io",
     "icon": "https://icons.duckduckgo.com/ip3/swiptly.io.ico",
     "slug": "swiptly",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 891,
     "timeDay": 818,
     "timeWeek": 879,
     "timeMonth": 837,
     "timeYear": 891,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-12": 7
+    }
   },
   {
     "name": "Scribe Associates",
@@ -40,73 +42,79 @@
     "url": "https://gmlpf.net",
     "icon": "https://icons.duckduckgo.com/ip3/gmlpf.net.ico",
     "slug": "gmlpf",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1293,
     "timeDay": 1117,
     "timeWeek": 1198,
     "timeMonth": 1290,
     "timeYear": 1293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-12": 5
+    }
   },
   {
     "name": "Mode",
     "url": "https://modetraining.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/modetraining.co.uk.ico",
     "slug": "mode",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 917,
     "timeDay": 804,
     "timeWeek": 914,
     "timeMonth": 889,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-12": 5
+    }
   },
   {
     "name": "The Child Care Academy",
     "url": "https://thechildcareacademy.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/thechildcareacademy.co.uk.ico",
     "slug": "the-child-care-academy",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 809,
     "timeDay": 706,
     "timeWeek": 803,
     "timeMonth": 782,
     "timeYear": 809,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-12": 4
+    }
   },
   {
     "name": "It's Fresh",
     "url": "https://itsfresh.com",
     "icon": "https://icons.duckduckgo.com/ip3/itsfresh.com.ico",
     "slug": "it-s-fresh",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 868,
     "timeDay": 691,
     "timeWeek": 849,
     "timeMonth": 838,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2024-02-12": 7
+      "2024-02-12": 3
     }
   },
   {
@@ -114,10 +122,10 @@
     "url": "https://towersassociates.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/towersassociates.co.uk.ico",
     "slug": "towers-associates",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
@@ -125,16 +133,18 @@
     "timeWeek": 362,
     "timeMonth": 345,
     "timeYear": 353,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-12": 2
+    }
   },
   {
     "name": "Vitality Maestros",
     "url": "https://vitalitymaestros.com",
     "icon": "https://icons.duckduckgo.com/ip3/vitalitymaestros.com.ico",
     "slug": "vitality-maestros",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,7 +153,9 @@
     "timeWeek": 1128,
     "timeMonth": 1243,
     "timeYear": 1294,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-12": 0
+    }
   },
   {
     "name": "We are the Property Maestros",
