@@ -1,7 +1,7 @@
 url: https://swiptly.io
-status: up
-code: 200
-responseTime: 902
-lastUpdated: 2024-02-25T23:10:45.100Z
+status: down
+code: 403
+responseTime: 49
+lastUpdated: 2024-02-26T16:39:42.695Z
 startTime: 2023-12-22T18:20:05.087Z
 generator: Upptime <https://github.com/upptime/upptime>
