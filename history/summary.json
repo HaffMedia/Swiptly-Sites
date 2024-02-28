@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/swiptly.io.ico",
     "slug": "swiptly",
     "status": "down",
-    "uptime": "98.00%",
+    "uptime": "96.99%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.79%",
-    "uptimeMonth": "95.58%",
-    "uptimeYear": "98.00%",
+    "uptimeWeek": "70.72%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "96.99%",
     "time": 842,
     "timeDay": 69,
     "timeWeek": 624,
     "timeMonth": 754,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2024-02-28": 56,
+      "2024-02-28": 1071,
       "2024-02-27": 1440,
       "2024-02-26": 440
     }
@@ -298,18 +298,20 @@
     "url": "https://leisurepropertyforum.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/leisurepropertyforum.co.uk.ico",
     "slug": "leisure-property-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1177,
-    "timeDay": 1453,
-    "timeWeek": 1075,
-    "timeMonth": 1115,
-    "timeYear": 1177,
-    "dailyMinutesDown": {}
+    "time": 1208,
+    "timeDay": 2465,
+    "timeWeek": 1375,
+    "timeMonth": 1189,
+    "timeYear": 1208,
+    "dailyMinutesDown": {
+      "2024-02-28": 0
+    }
   },
   {
     "name": "Saucy Horse",
